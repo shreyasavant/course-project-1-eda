@@ -1,7 +1,4 @@
 # Peer-graded-Assignment-Course-Project-1
-At Thanks for look around my result.
-Above all, please understand my English skill..
-
 There are 3 files in this repository
 <li> README.md </li>
 <li> R script for making assignment plot </li>
